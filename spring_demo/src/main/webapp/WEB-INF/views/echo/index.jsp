@@ -17,4 +17,5 @@
 		<form:errors path="name" cssStyle="color:red" />
 		<input type="submit" />
 	</form:form>
+	<a href="test">hello world</a>
 </body>
