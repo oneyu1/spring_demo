@@ -1,0 +1,8 @@
+hello world
+
+MVC動作確認 echoシステム実装
+
+C:\spring_demo\spring_demo\src\main\webapp\WEB-INF\web.xml
+ajax動作時文字化け対応 マルチバイト対応 web.xmlに追加
+マルチバイト対応に追加ソース記載
+
