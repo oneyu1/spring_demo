@@ -18,6 +18,6 @@ public class TestController {
 
 	 @RequestMapping
 	 public String index(Model model) {
-		 return "echo/index";
+		 return "test/index";
 	 }
 }
